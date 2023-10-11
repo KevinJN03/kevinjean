@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Jean</h1>
 <h3 align="center">A JavaScript Delevoper</h3>
 
-- 🌱 I’m currently learning **React**
+
 
 - 📫 How to reach me **KevinJean321@gmail.com**
 
